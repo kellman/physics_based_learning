@@ -6,4 +6,6 @@ The goal of this open-source demonstration is provide a minimum working example 
 
 The IPython notebook contains a physics-based learning example that performs sparse recovery for an under-determined system, _i.e. compressed sensing_. We construct a physics-based network by unrolling the iterations of proximal gradient descent algorithm and perform physics-based learning to learn the system's measurement matrix, step size, and sparsity penalty.
 
-For more details please refer to the document _How to do Physics-based Learning_.
+For more details please refer to the document _How_to_do_Physics-based_Learning.pdf_.
+
+If this is useful please [cite](https://arxiv.org/abs/2005.13531).
